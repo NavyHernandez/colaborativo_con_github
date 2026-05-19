@@ -1,8 +1,7 @@
 # 🛡️ Tech News - Tu Portal de Ciberseguridad y Cultura Digital
 
-<p align="center">
   ![Texto alternativo por si no carga la imagen](./INICIO-1.png)
-</p>
+
 
 ---
 
@@ -37,11 +36,11 @@ La desinformación y la falta de cultura digital exponen a miles de usuarios a a
 
 | Foto | Nombre del Integrante | Rol en el Equipo|
 | :---: | :--- | :--- |
-| <img src="https://icons8.com/icon/bVGqATNwfhYq/github" width="50px"/> | **[Lili]** | 👑 Líder de Proyecto |
-| <img src="https://img.icons8.com/clouds/100/vector-graphics.png" width="50px"/> | **[Karen]** | 🎨 Diseñador Digital 1 |
-| <img src="https://img.icons8.com/clouds/100/vector-graphics.png" width="50px"/> | **[Amelia]** | 🎨 Diseñador Digital 2 |
-| <img src="https://img.icons8.com/clouds/100/document.png" width="50px"/> | **[Darwin]** | ✍️ Documentador |
-| <img src="https://img.icons8.com/clouds/100/github.png" width="50px"/> | **[David]** | 💻 Administrador GitHub |
+| <img src="https://img.icons8.com/clouds/100/github.png" width="50px"/> | **Lili** | 👑 Líder de Proyecto |
+| <img src="https://img.icons8.com/clouds/100/github.png" width="50px"/> | **Karen** | 🎨 Diseñador Digital 1 |
+| <img src="https://img.icons8.com/clouds/100/github.png" width="50px"/> | **Amelia** | 🎨 Diseñador Digital 2 |
+| <img src="https://img.icons8.com/clouds/100/document.png" width="50px"/> | **Darwin** | ✍️ Documentador |
+| <img src="https://img.icons8.com/clouds/100/github.png" width="50px"/> | **David** | 💻 Administrador GitHub |
 
 ---
 
