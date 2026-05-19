@@ -24,4 +24,3 @@ POSIBLES MEJORAS FUTURAS
 - Añadir videos educativos y material descargable.
 - Incorporar análisis automático de contraseñas seguras.
 - Desarrollar una aplicación móvil del proyecto.
-- Implementar notificaciones de alertas de seguridad en tiempo real.
