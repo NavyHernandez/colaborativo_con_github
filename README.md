@@ -1,5 +1,4 @@
-# 🛡️ Tech News - Tu Portal de Ciberseguridad y Cultura Digital
-
+# 🛡️ Tech News - Tu Portal de Ciberseguridad 
   ![Texto alternativo por si no carga la imagen](./INICIO-1.png)
 
 
@@ -49,8 +48,8 @@ La desinformación y la falta de cultura digital exponen a miles de usuarios a a
 El proyecto mantiene una organización rigurosa dividida de la siguiente manera, incluyendo los dos archivos visuales en la raíz:
 
 ```text
-├── 📂 documentacion/        # Carpeta de información del proyecto [cite: 55]
-│   └── 📄 ideas.txt         # Funciones, ventajas y mejoras del servicio [cite: 58]
-├── 🖼️ logo.png              # Imagen 1: Identidad visual en la raíz del repo [cite: 52]
-├── 🖼️ captura.png           # Imagen 2: Captura representativa en la raíz del repo [cite: 54]
-└── 📄 README.md             # Presentación principal del proyecto [cite: 42]
+├── 📂 documentacion/        # Carpeta de información del proyecto
+│   └── 📄 ideas.txt         # Funciones, ventajas y mejoras del servicio
+├── 🖼️ Imagenes.png              # Imagenes Diseñador 1: Capturas web...
+├── 🖼️ Imagenes.jpg           # Imagenes Diseñador 2: Captura responsive...
+└── 📄 README.md             # Presentación principal del proyecto
