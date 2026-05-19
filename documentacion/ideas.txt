@@ -1,0 +1,27 @@
+PROYECTO: Tech News 
+
+FUNCIONES PRINCIPALES
+- Publicar recomendaciones de seguridad informática para usuarios.
+- Brindar consejos para crear contraseñas seguras.
+- Informar sobre amenazas digitales como phishing, malware y robo de datos.
+- Compartir noticias y alertas sobre ciberseguridad.
+- Ofrecer guías básicas para proteger cuentas y dispositivos.
+- Mostrar tutoriales sencillos sobre privacidad en internet.
+- Permitir a los usuarios enviar dudas o reportar problemas de seguridad.
+
+VENTAJAS
+- Ayuda a las personas a navegar de forma segura en internet.
+- Reduce el riesgo de estafas y ataques informáticos.
+- La información es fácil de entender para cualquier usuario.
+- Promueve buenas prácticas de seguridad digital.
+- Puede ser utilizada por estudiantes, docentes y público en general.
+- Disponible en línea desde cualquier dispositivo con internet.
+
+POSIBLES MEJORAS FUTURAS
+- Agregar un sistema de inicio de sesión para usuarios.
+- Implementar un chatbot de ayuda en seguridad informática.
+- Crear cursos interactivos de ciberseguridad.
+- Añadir videos educativos y material descargable.
+- Incorporar análisis automático de contraseñas seguras.
+- Desarrollar una aplicación móvil del proyecto.
+- Implementar notificaciones de alertas de seguridad en tiempo real.
