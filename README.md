@@ -31,6 +31,16 @@ La desinformación y la falta de cultura digital exponen a miles de usuarios a a
 
 ---
 
+## Tecnologias Utilizadas
+
+- Html
+- Css
+- JavaScript
+- Git
+- GitHub
+- GitBash
+---
+
 ## 👥 3. El Equipo (Mini Startup)
 
 | Foto | Nombre del Integrante | Rol en el Equipo|
@@ -50,6 +60,6 @@ El proyecto mantiene una organización rigurosa dividida de la siguiente manera,
 ```text
 ├── 📂 documentacion/        # Carpeta de información del proyecto
 │   └── 📄 ideas.txt         # Funciones, ventajas y mejoras del servicio
-├── 🖼️ Imagenes.png              # Imagenes Diseñador 1: Capturas web...
+├── 🖼️ Imagenes.png          # Imagenes Diseñador 1: Capturas web...
 ├── 🖼️ Imagenes.jpg           # Imagenes Diseñador 2: Captura responsive...
 └── 📄 README.md             # Presentación principal del proyecto
